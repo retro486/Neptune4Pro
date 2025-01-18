@@ -1,0 +1,31 @@
+{
+    "deretraction_speed": [
+        "65"
+    ],
+    "from": "User",
+    "inherits": "Elegoo Neptune 4 Pro (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END",
+    "machine_start_gcode": "PRINT_START BED_TEMP=[bed_temperature_initial_layer_single] EXTRUDER_TEMP=[nozzle_temperature_initial_layer]",
+    "name": "Elegoo Neptune 4 Pro (0.4 nozzle) KAMP v2",
+    "print_host": "192.168.68.50",
+    "printer_settings_id": "Elegoo Neptune 4 Pro (0.4 nozzle) KAMP v2",
+    "printhost_apikey": "d0e9d17e5e084b8c860a33b5051931b5",
+    "retraction_length": [
+        "1"
+    ],
+    "retraction_speed": [
+        "100"
+    ],
+    "support_multi_bed_types": "1",
+    "version": "2.2.0.4",
+    "wipe": [
+        "0"
+    ],
+    "z_hop": [
+        "1"
+    ],
+    "z_hop_types": [
+        "Auto Lift"
+    ]
+}

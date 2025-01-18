@@ -1,0 +1,21 @@
+{
+    "brim_object_gap": "0.2",
+    "brim_type": "outer_only",
+    "brim_width": "2",
+    "enable_support": "1",
+    "ensure_vertical_shell_thickness": "none",
+    "from": "User",
+    "inherits": "0.20mm Standard @Elegoo Neptune4Pro (0.4 nozzle)",
+    "initial_layer_print_height": "0.28",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Elegoo Neptune4Pro (0.4 nozzle) v5",
+    "print_settings_id": "0.20mm Standard @Elegoo Neptune4Pro (0.4 nozzle) v5",
+    "seam_position": "nearest",
+    "skirt_loops": "0",
+    "sparse_infill_density": "10%",
+    "sparse_infill_pattern": "gyroid",
+    "support_interface_bottom_layers": "1",
+    "support_interface_top_layers": "1",
+    "support_type": "tree(auto)",
+    "version": "2.2.0.4"
+}
