@@ -1,0 +1,50 @@
+
+[fila]
+enable                         = 1
+
+
+[led]
+enable                         = 1
+
+
+[beep]
+enable                         = 0
+
+
+[target]
+extruder                       = 240
+heaterbed                      = 50
+
+
+[babystep]
+value                          = -1.650000
+
+
+[total]
+time                           = 4036
+
+
+[oobe]
+enable                         = 0
+
+
+[mks_ethernet]
+enable                         = 0
+
+
+[app_connection]
+method                         = false
+
+
+[app_server]
+name                           = aws
+
+
+[app]
+device_code                    = atrv231v
+subdomain                      = s56rry6x34t05d9z0k
+token                          = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuaWNrX25hbWUiOiIiLCJ1c2VyX2lkIjoiMjAyNjQzNTk1ODYwMTE1NDU2IiwiaWF0IjoxNzM1NzEwODYyLCJleHAiOjE3MzYzMTU2NjJ9.7wyps0Mcq5y8I30LANiblk8yaGvduvyUkbR4XMNI_Cc
+username                       = 
+avatar                         = 
+
+
